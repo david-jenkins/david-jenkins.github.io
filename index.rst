@@ -13,4 +13,5 @@ I am an AO RTC psotdoc at ESO
     :caption: Contents:
 
     source/introduction
+    source/phdthesis
 
